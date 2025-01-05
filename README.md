@@ -1,6 +1,5 @@
-# Hi there - I'm Aled! 👋
+### Hi there - I'm Aled! 👋
 
-## About Me
 - 🔭 Currently working with numbers and code in the finance world
 - 🌱 Learning and experimenting with robotics, 3D printing, CAD and electronics
 - 💬 Ask me about anything!
